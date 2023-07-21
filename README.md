@@ -1,6 +1,6 @@
 # PCP: Custom Enchants (EnchantedArsenal)
 ### Enchantments:
-- DeathBringe
+- DeathBringer
 - Elooter 
 - Nuke
 - Prospector
