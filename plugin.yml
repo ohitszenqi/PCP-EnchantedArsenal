@@ -1,0 +1,17 @@
+name: ArsenalEnchants
+version: 1.0.0
+api: [5.0.0]
+author: Zenqi
+main: ArsenalEnchants\Main
+description: CustomEnchants for PocketPinas
+
+commands:
+  enchant:
+    description: Add an enchant to an item.
+    permission: enchantedarsenal.command.enchant
+
+
+permissions:
+  enchantedarsenal.command.enchant:
+    description: Allows players to use the /enchant command
+    default: op
